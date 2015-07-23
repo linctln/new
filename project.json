@@ -1,0 +1,10 @@
+{
+    "name": "new",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "c",
+    "executable": "new.script",
+    "author": "linctln",
+    "minimum_firmware_version": 42
+}
